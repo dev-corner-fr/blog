@@ -1,7 +1,7 @@
 ---
 title: Récapitulatif Conf-Informés
 date: "2020-06-03"
-description: "Hello World"
+description: "First summary of the first edition of Conf-informés"
 ---
 
 
