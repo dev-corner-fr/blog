@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `ElsassDev`,
-    description: `ElsassDev is a small community of passionate developers`
+    description: `ElsassDev is a small community of passionate developers`,
+    siteUrl: 'https://elsassdev.now.sh/'
   },
   plugins: [
     {
