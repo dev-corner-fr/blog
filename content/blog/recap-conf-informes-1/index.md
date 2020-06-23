@@ -1,5 +1,5 @@
 ---
-title: Récapitulatif Conf-Informés
+title: "Récapitulatif Conf-Informés #1"
 date: "2020-06-03"
 description: "First summary of the first edition of Conf-informés"
 ---
@@ -7,9 +7,22 @@ description: "First summary of the first edition of Conf-informés"
 
 # Topics
 
-## Deno introduction
+## What is Deno ?
 
-https://www.notion.so/keziahmoselle/Article-Deno-26bd9db5d2de4074878438788ccbd99a
+Deno came out 1 week ago and made a lot of noise in the JavaScript community, we saw a lot of articles like "Is Node.js dead ?" "Deno is the new Node.js" and so on, so we had to talk a bit about Deno.
+
+List of the main Deno's features :
+
+- 100% promises based
+- CLI flags to access specific layers of the system (like --allow-net for HTTP calls of network I/O)
+- Modules are decentralized
+- Top level await
+- First class support of TypeScript
+- APIs are the same between the browser and Deno (i.e : Worker)
+- Instantly die upon unhandled exceptions
+
+If you want a deeper understanding of Deno you can read our article : [The why and what of Deno](/what-why-deno)
+
 
 ## Vite and VitePress
 
