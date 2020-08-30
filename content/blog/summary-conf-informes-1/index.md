@@ -1,5 +1,5 @@
 ---
-title: "Récapitulatif Conf-Informés #1"
+title: "Summary Conf-Informés #1"
 date: "2020-06-03"
 description: "First summary of the first edition of Conf-informés"
 ---
